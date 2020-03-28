@@ -9,6 +9,7 @@ You have a package structure defined globally, as well as naming convension.
 There should be a team centrally managing the transport for the whole system.
 
 1. Container Based Stregty
+
 This approach works when you working in a agile way, and have a morden devops concept. That you have different product team work on different products, and each taem manage their own development, operation and deployment themselves. And the dependency between products are only on exceptional case and clearly defined. 
 What you need to do?
   1. Apply namespcae for each of your product, to elimite nameing conflict 
