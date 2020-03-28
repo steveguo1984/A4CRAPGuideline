@@ -1,6 +1,6 @@
 # Orgnize Your Code
 You have 2 stregty of orgnizing your code in ABAP Cloud
-1. Single Repository Stregty
+## Single Repository Stregty
 This approach works if your development team running in a traditional mode, that ABAP developers are orgnized by functional area, and have a clear sepraration between develop team and operation team.
 
 You orgnize your ABAP code just like what you have done on ABAP on premise, that all the developers develop application in a big code repository which contain all your ABAP Code.
@@ -8,7 +8,7 @@ You create one namespace or develop without namespace ( using Y* or Z* objects )
 You have a package structure defined globally, as well as naming convension.
 There should be a team centrally managing the transport for the whole system.
 
-1. Container Based Stregty
+## Container Based Stregty
 
 This approach works when you working in a agile way, and have a morden devops concept. That you have different product team work on different products, and each taem manage their own development, operation and deployment themselves. And the dependency between products are only on exceptional case and clearly defined. 
 What you need to do?
