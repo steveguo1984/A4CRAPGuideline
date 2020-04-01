@@ -13,7 +13,7 @@ Development guideline for RAP development on ABAP Cloud
 
 
 # Content of Guideline
-1. [Orgnize your application](/1 Organize Your Code .md)
+1. [Orgnize your application](./1 Organize Your Code .md)
 
 1. Design RAP Objects
 1. Behavior Definition design guide
