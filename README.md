@@ -14,8 +14,7 @@ Development guideline for RAP development on ABAP Cloud
 
 # Content of Guideline
 1. [Orgnize your application](./1_CODE_ORG.md)
-
-1. Design RAP Objects
+1. [Design RAP Objects](./2_BO_DESIGN.md)
 1. Behavior Definition design guide
 1. Access Legacy objects
 1. Access RAP BO from legacy code
