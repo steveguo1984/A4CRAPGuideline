@@ -13,7 +13,8 @@ Development guideline for RAP development on ABAP Cloud
 
 
 # Content of Guideline
-1. Orgnize your application
+1. [Orgnize your application](../blob/master/LICENSE)
+
 1. Design RAP Objects
 1. Behavior Definition design guide
 1. Access Legacy objects
